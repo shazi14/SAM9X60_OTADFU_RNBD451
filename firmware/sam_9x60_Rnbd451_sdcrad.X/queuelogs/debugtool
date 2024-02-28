@@ -1,0 +1,1064 @@
+302521 1698784865303 EvalCall 
+302521 1698784865304 ExecutingUnlockedFunction is_target_running
+302521 1698784865304 XXXX 1698784865304, Thread 302521: XXXX 1698784865304, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784865304 XXXX 1698784865304, Thread 302521: XXXX 1698784865304, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784865307 XXXX 1698784865307, Thread 302521: XXXX 1698784865307, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784865307 XXXX 1698784865307, Thread 302521: XXXX 1698784865307, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784865403 EvalCall 
+302521 1698784865404 ExecutingUnlockedFunction is_target_running
+302521 1698784865404 XXXX 1698784865404, Thread 302521: XXXX 1698784865404, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784865404 XXXX 1698784865404, Thread 302521: XXXX 1698784865404, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784865407 XXXX 1698784865407, Thread 302521: XXXX 1698784865407, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784865407 XXXX 1698784865407, Thread 302521: XXXX 1698784865407, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784865503 EvalCall 
+302521 1698784865504 ExecutingUnlockedFunction is_target_running
+302521 1698784865504 XXXX 1698784865504, Thread 302521: XXXX 1698784865504, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784865504 XXXX 1698784865504, Thread 302521: XXXX 1698784865504, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784865507 XXXX 1698784865507, Thread 302521: XXXX 1698784865507, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784865507 XXXX 1698784865507, Thread 302521: XXXX 1698784865507, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784865603 EvalCall 
+302521 1698784865604 ExecutingUnlockedFunction is_target_running
+302521 1698784865604 XXXX 1698784865604, Thread 302521: XXXX 1698784865604, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784865604 XXXX 1698784865604, Thread 302521: XXXX 1698784865604, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784865607 XXXX 1698784865607, Thread 302521: XXXX 1698784865607, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784865607 XXXX 1698784865607, Thread 302521: XXXX 1698784865607, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784865704 EvalCall 
+302521 1698784865705 ExecutingUnlockedFunction is_target_running
+302521 1698784865705 XXXX 1698784865705, Thread 302521: XXXX 1698784865705, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784865705 XXXX 1698784865705, Thread 302521: XXXX 1698784865705, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784865709 XXXX 1698784865709, Thread 302521: XXXX 1698784865709, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784865709 XXXX 1698784865709, Thread 302521: XXXX 1698784865709, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784865804 EvalCall 
+302521 1698784865805 ExecutingUnlockedFunction is_target_running
+302521 1698784865805 XXXX 1698784865805, Thread 302521: XXXX 1698784865805, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784865805 XXXX 1698784865805, Thread 302521: XXXX 1698784865805, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784865809 XXXX 1698784865809, Thread 302521: XXXX 1698784865809, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784865809 XXXX 1698784865809, Thread 302521: XXXX 1698784865809, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784865905 EvalCall 
+302521 1698784865906 ExecutingUnlockedFunction is_target_running
+302521 1698784865906 XXXX 1698784865906, Thread 302521: XXXX 1698784865906, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784865906 XXXX 1698784865906, Thread 302521: XXXX 1698784865906, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784865910 XXXX 1698784865910, Thread 302521: XXXX 1698784865910, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784865910 XXXX 1698784865910, Thread 302521: XXXX 1698784865910, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866005 EvalCall 
+302521 1698784866007 ExecutingUnlockedFunction is_target_running
+302521 1698784866007 XXXX 1698784866007, Thread 302521: XXXX 1698784866007, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866007 XXXX 1698784866007, Thread 302521: XXXX 1698784866007, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866009 XXXX 1698784866009, Thread 302521: XXXX 1698784866009, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866009 XXXX 1698784866009, Thread 302521: XXXX 1698784866009, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866106 EvalCall 
+302521 1698784866107 ExecutingUnlockedFunction is_target_running
+302521 1698784866107 XXXX 1698784866107, Thread 302521: XXXX 1698784866107, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866107 XXXX 1698784866107, Thread 302521: XXXX 1698784866107, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866110 XXXX 1698784866110, Thread 302521: XXXX 1698784866110, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866110 XXXX 1698784866110, Thread 302521: XXXX 1698784866110, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866206 EvalCall 
+302521 1698784866207 ExecutingUnlockedFunction is_target_running
+302521 1698784866207 XXXX 1698784866207, Thread 302521: XXXX 1698784866207, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866207 XXXX 1698784866207, Thread 302521: XXXX 1698784866207, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866211 XXXX 1698784866211, Thread 302521: XXXX 1698784866211, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866211 XXXX 1698784866211, Thread 302521: XXXX 1698784866211, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866307 EvalCall 
+302521 1698784866308 ExecutingUnlockedFunction is_target_running
+302521 1698784866308 XXXX 1698784866308, Thread 302521: XXXX 1698784866308, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866308 XXXX 1698784866308, Thread 302521: XXXX 1698784866308, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866311 XXXX 1698784866311, Thread 302521: XXXX 1698784866311, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866311 XXXX 1698784866311, Thread 302521: XXXX 1698784866311, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866407 EvalCall 
+302521 1698784866409 ExecutingUnlockedFunction is_target_running
+302521 1698784866409 XXXX 1698784866409, Thread 302521: XXXX 1698784866409, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866409 XXXX 1698784866409, Thread 302521: XXXX 1698784866409, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866413 XXXX 1698784866413, Thread 302521: XXXX 1698784866413, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866413 XXXX 1698784866413, Thread 302521: XXXX 1698784866413, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866507 EvalCall 
+302521 1698784866508 ExecutingUnlockedFunction is_target_running
+302521 1698784866508 XXXX 1698784866508, Thread 302521: XXXX 1698784866508, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866508 XXXX 1698784866508, Thread 302521: XXXX 1698784866508, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866511 XXXX 1698784866511, Thread 302521: XXXX 1698784866511, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866511 XXXX 1698784866511, Thread 302521: XXXX 1698784866511, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866608 EvalCall 
+302521 1698784866609 ExecutingUnlockedFunction is_target_running
+302521 1698784866609 XXXX 1698784866609, Thread 302521: XXXX 1698784866609, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866609 XXXX 1698784866609, Thread 302521: XXXX 1698784866609, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866612 XXXX 1698784866612, Thread 302521: XXXX 1698784866612, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866612 XXXX 1698784866612, Thread 302521: XXXX 1698784866612, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866709 EvalCall 
+302521 1698784866710 ExecutingUnlockedFunction is_target_running
+302521 1698784866710 XXXX 1698784866710, Thread 302521: XXXX 1698784866710, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866710 XXXX 1698784866710, Thread 302521: XXXX 1698784866710, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866713 XXXX 1698784866713, Thread 302521: XXXX 1698784866713, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866713 XXXX 1698784866713, Thread 302521: XXXX 1698784866713, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866810 EvalCall 
+302521 1698784866811 ExecutingUnlockedFunction is_target_running
+302521 1698784866811 XXXX 1698784866811, Thread 302521: XXXX 1698784866811, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866811 XXXX 1698784866811, Thread 302521: XXXX 1698784866811, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866814 XXXX 1698784866814, Thread 302521: XXXX 1698784866814, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866814 XXXX 1698784866814, Thread 302521: XXXX 1698784866814, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784866910 EvalCall 
+302521 1698784866911 ExecutingUnlockedFunction is_target_running
+302521 1698784866911 XXXX 1698784866911, Thread 302521: XXXX 1698784866911, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784866911 XXXX 1698784866911, Thread 302521: XXXX 1698784866911, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784866914 XXXX 1698784866914, Thread 302521: XXXX 1698784866914, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784866914 XXXX 1698784866914, Thread 302521: XXXX 1698784866914, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867010 EvalCall 
+302521 1698784867011 ExecutingUnlockedFunction is_target_running
+302521 1698784867011 XXXX 1698784867011, Thread 302521: XXXX 1698784867011, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867011 XXXX 1698784867011, Thread 302521: XXXX 1698784867011, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867014 XXXX 1698784867014, Thread 302521: XXXX 1698784867014, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867014 XXXX 1698784867014, Thread 302521: XXXX 1698784867014, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867110 EvalCall 
+302521 1698784867111 ExecutingUnlockedFunction is_target_running
+302521 1698784867111 XXXX 1698784867111, Thread 302521: XXXX 1698784867111, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867111 XXXX 1698784867111, Thread 302521: XXXX 1698784867111, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867114 XXXX 1698784867114, Thread 302521: XXXX 1698784867114, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867114 XXXX 1698784867114, Thread 302521: XXXX 1698784867114, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867210 EvalCall 
+302521 1698784867211 ExecutingUnlockedFunction is_target_running
+302521 1698784867211 XXXX 1698784867211, Thread 302521: XXXX 1698784867211, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867211 XXXX 1698784867211, Thread 302521: XXXX 1698784867211, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867214 XXXX 1698784867214, Thread 302521: XXXX 1698784867214, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867214 XXXX 1698784867214, Thread 302521: XXXX 1698784867214, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867310 EvalCall 
+302521 1698784867311 ExecutingUnlockedFunction is_target_running
+302521 1698784867311 XXXX 1698784867311, Thread 302521: XXXX 1698784867311, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867311 XXXX 1698784867311, Thread 302521: XXXX 1698784867311, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867315 XXXX 1698784867315, Thread 302521: XXXX 1698784867315, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867315 XXXX 1698784867315, Thread 302521: XXXX 1698784867315, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867411 EvalCall 
+302521 1698784867412 ExecutingUnlockedFunction is_target_running
+302521 1698784867412 XXXX 1698784867412, Thread 302521: XXXX 1698784867412, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867412 XXXX 1698784867412, Thread 302521: XXXX 1698784867412, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867415 XXXX 1698784867415, Thread 302521: XXXX 1698784867415, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867415 XXXX 1698784867415, Thread 302521: XXXX 1698784867415, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867512 EvalCall 
+302521 1698784867514 ExecutingUnlockedFunction is_target_running
+302521 1698784867514 XXXX 1698784867514, Thread 302521: XXXX 1698784867514, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867514 XXXX 1698784867514, Thread 302521: XXXX 1698784867514, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867518 XXXX 1698784867518, Thread 302521: XXXX 1698784867518, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867518 XXXX 1698784867518, Thread 302521: XXXX 1698784867518, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867612 EvalCall 
+302521 1698784867613 ExecutingUnlockedFunction is_target_running
+302521 1698784867613 XXXX 1698784867613, Thread 302521: XXXX 1698784867613, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867613 XXXX 1698784867613, Thread 302521: XXXX 1698784867613, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867615 XXXX 1698784867615, Thread 302521: XXXX 1698784867615, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867615 XXXX 1698784867615, Thread 302521: XXXX 1698784867615, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867713 EvalCall 
+302521 1698784867715 ExecutingUnlockedFunction is_target_running
+302521 1698784867715 XXXX 1698784867715, Thread 302521: XXXX 1698784867715, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867715 XXXX 1698784867715, Thread 302521: XXXX 1698784867715, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867719 XXXX 1698784867719, Thread 302521: XXXX 1698784867719, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867719 XXXX 1698784867719, Thread 302521: XXXX 1698784867719, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867814 EvalCall 
+302521 1698784867815 ExecutingUnlockedFunction is_target_running
+302521 1698784867815 XXXX 1698784867815, Thread 302521: XXXX 1698784867815, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867815 XXXX 1698784867815, Thread 302521: XXXX 1698784867815, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867817 XXXX 1698784867817, Thread 302521: XXXX 1698784867817, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867817 XXXX 1698784867817, Thread 302521: XXXX 1698784867817, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784867915 EvalCall 
+302521 1698784867916 ExecutingUnlockedFunction is_target_running
+302521 1698784867916 XXXX 1698784867916, Thread 302521: XXXX 1698784867916, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784867916 XXXX 1698784867916, Thread 302521: XXXX 1698784867916, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784867919 XXXX 1698784867919, Thread 302521: XXXX 1698784867919, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784867919 XXXX 1698784867919, Thread 302521: XXXX 1698784867919, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868015 EvalCall 
+302521 1698784868016 ExecutingUnlockedFunction is_target_running
+302521 1698784868016 XXXX 1698784868016, Thread 302521: XXXX 1698784868016, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868016 XXXX 1698784868016, Thread 302521: XXXX 1698784868016, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868019 XXXX 1698784868019, Thread 302521: XXXX 1698784868019, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868019 XXXX 1698784868019, Thread 302521: XXXX 1698784868019, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868115 EvalCall 
+302521 1698784868116 ExecutingUnlockedFunction is_target_running
+302521 1698784868116 XXXX 1698784868116, Thread 302521: XXXX 1698784868116, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868116 XXXX 1698784868116, Thread 302521: XXXX 1698784868116, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868120 XXXX 1698784868120, Thread 302521: XXXX 1698784868120, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868120 XXXX 1698784868120, Thread 302521: XXXX 1698784868120, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868215 EvalCall 
+302521 1698784868216 ExecutingUnlockedFunction is_target_running
+302521 1698784868216 XXXX 1698784868216, Thread 302521: XXXX 1698784868216, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868216 XXXX 1698784868216, Thread 302521: XXXX 1698784868216, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868220 XXXX 1698784868220, Thread 302521: XXXX 1698784868220, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868220 XXXX 1698784868220, Thread 302521: XXXX 1698784868220, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868316 EvalCall 
+302521 1698784868317 ExecutingUnlockedFunction is_target_running
+302521 1698784868317 XXXX 1698784868317, Thread 302521: XXXX 1698784868317, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868317 XXXX 1698784868317, Thread 302521: XXXX 1698784868317, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868320 XXXX 1698784868320, Thread 302521: XXXX 1698784868320, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868320 XXXX 1698784868320, Thread 302521: XXXX 1698784868320, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868417 EvalCall 
+302521 1698784868418 ExecutingUnlockedFunction is_target_running
+302521 1698784868418 XXXX 1698784868418, Thread 302521: XXXX 1698784868418, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868418 XXXX 1698784868418, Thread 302521: XXXX 1698784868418, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868421 XXXX 1698784868421, Thread 302521: XXXX 1698784868421, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868421 XXXX 1698784868421, Thread 302521: XXXX 1698784868421, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868517 EvalCall 
+302521 1698784868518 ExecutingUnlockedFunction is_target_running
+302521 1698784868518 XXXX 1698784868518, Thread 302521: XXXX 1698784868518, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868518 XXXX 1698784868518, Thread 302521: XXXX 1698784868518, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868522 XXXX 1698784868522, Thread 302521: XXXX 1698784868522, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868522 XXXX 1698784868522, Thread 302521: XXXX 1698784868522, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868618 EvalCall 
+302521 1698784868619 ExecutingUnlockedFunction is_target_running
+302521 1698784868619 XXXX 1698784868619, Thread 302521: XXXX 1698784868619, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868619 XXXX 1698784868619, Thread 302521: XXXX 1698784868619, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868622 XXXX 1698784868622, Thread 302521: XXXX 1698784868622, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868622 XXXX 1698784868622, Thread 302521: XXXX 1698784868622, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868718 EvalCall 
+302521 1698784868719 ExecutingUnlockedFunction is_target_running
+302521 1698784868719 XXXX 1698784868719, Thread 302521: XXXX 1698784868719, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868719 XXXX 1698784868719, Thread 302521: XXXX 1698784868719, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868722 XXXX 1698784868722, Thread 302521: XXXX 1698784868722, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868722 XXXX 1698784868722, Thread 302521: XXXX 1698784868722, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868818 EvalCall 
+302521 1698784868819 ExecutingUnlockedFunction is_target_running
+302521 1698784868819 XXXX 1698784868819, Thread 302521: XXXX 1698784868819, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868819 XXXX 1698784868819, Thread 302521: XXXX 1698784868819, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868822 XXXX 1698784868822, Thread 302521: XXXX 1698784868822, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868822 XXXX 1698784868822, Thread 302521: XXXX 1698784868822, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784868918 EvalCall 
+302521 1698784868919 ExecutingUnlockedFunction is_target_running
+302521 1698784868919 XXXX 1698784868919, Thread 302521: XXXX 1698784868919, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784868919 XXXX 1698784868919, Thread 302521: XXXX 1698784868919, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784868921 XXXX 1698784868921, Thread 302521: XXXX 1698784868921, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784868921 XXXX 1698784868921, Thread 302521: XXXX 1698784868921, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869020 EvalCall 
+302521 1698784869020 ExecutingUnlockedFunction is_target_running
+302521 1698784869020 XXXX 1698784869020, Thread 302521: XXXX 1698784869020, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869020 XXXX 1698784869020, Thread 302521: XXXX 1698784869020, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869023 XXXX 1698784869023, Thread 302521: XXXX 1698784869023, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869023 XXXX 1698784869023, Thread 302521: XXXX 1698784869023, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869121 EvalCall 
+302521 1698784869123 ExecutingUnlockedFunction is_target_running
+302521 1698784869123 XXXX 1698784869123, Thread 302521: XXXX 1698784869123, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869123 XXXX 1698784869123, Thread 302521: XXXX 1698784869123, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869126 XXXX 1698784869126, Thread 302521: XXXX 1698784869126, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869126 XXXX 1698784869126, Thread 302521: XXXX 1698784869126, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869222 EvalCall 
+302521 1698784869223 ExecutingUnlockedFunction is_target_running
+302521 1698784869223 XXXX 1698784869223, Thread 302521: XXXX 1698784869223, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869223 XXXX 1698784869223, Thread 302521: XXXX 1698784869223, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869227 XXXX 1698784869227, Thread 302521: XXXX 1698784869227, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869227 XXXX 1698784869227, Thread 302521: XXXX 1698784869227, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869322 EvalCall 
+302521 1698784869323 ExecutingUnlockedFunction is_target_running
+302521 1698784869323 XXXX 1698784869323, Thread 302521: XXXX 1698784869323, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869323 XXXX 1698784869323, Thread 302521: XXXX 1698784869323, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869325 XXXX 1698784869325, Thread 302521: XXXX 1698784869325, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869325 XXXX 1698784869325, Thread 302521: XXXX 1698784869325, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869422 EvalCall 
+302521 1698784869423 ExecutingUnlockedFunction is_target_running
+302521 1698784869423 XXXX 1698784869423, Thread 302521: XXXX 1698784869423, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869423 XXXX 1698784869423, Thread 302521: XXXX 1698784869423, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869426 XXXX 1698784869426, Thread 302521: XXXX 1698784869426, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869426 XXXX 1698784869426, Thread 302521: XXXX 1698784869426, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869522 EvalCall 
+302521 1698784869523 ExecutingUnlockedFunction is_target_running
+302521 1698784869523 XXXX 1698784869523, Thread 302521: XXXX 1698784869523, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869523 XXXX 1698784869523, Thread 302521: XXXX 1698784869523, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869527 XXXX 1698784869527, Thread 302521: XXXX 1698784869527, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869527 XXXX 1698784869527, Thread 302521: XXXX 1698784869527, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869622 EvalCall 
+302521 1698784869623 ExecutingUnlockedFunction is_target_running
+302521 1698784869623 XXXX 1698784869623, Thread 302521: XXXX 1698784869623, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869623 XXXX 1698784869623, Thread 302521: XXXX 1698784869623, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869626 XXXX 1698784869626, Thread 302521: XXXX 1698784869626, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869626 XXXX 1698784869626, Thread 302521: XXXX 1698784869626, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869722 EvalCall 
+302521 1698784869723 ExecutingUnlockedFunction is_target_running
+302521 1698784869723 XXXX 1698784869723, Thread 302521: XXXX 1698784869723, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869723 XXXX 1698784869723, Thread 302521: XXXX 1698784869723, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869726 XXXX 1698784869726, Thread 302521: XXXX 1698784869726, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869726 XXXX 1698784869726, Thread 302521: XXXX 1698784869726, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869823 EvalCall 
+302521 1698784869824 ExecutingUnlockedFunction is_target_running
+302521 1698784869824 XXXX 1698784869824, Thread 302521: XXXX 1698784869824, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869824 XXXX 1698784869824, Thread 302521: XXXX 1698784869824, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869827 XXXX 1698784869827, Thread 302521: XXXX 1698784869827, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869827 XXXX 1698784869827, Thread 302521: XXXX 1698784869827, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869923 EvalCall 
+302521 1698784869924 ExecutingUnlockedFunction is_target_running
+302521 1698784869924 XXXX 1698784869924, Thread 302521: XXXX 1698784869924, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869924 XXXX 1698784869924, Thread 302521: XXXX 1698784869924, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869925 XXXX 1698784869925, Thread 302521: XXXX 1698784869925, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869925 XXXX 1698784869925, Thread 302521: XXXX 1698784869925, Exiting Thread 302521: Commands::runScriptWithUpload  
+
+302521 1698784869992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:HaltTarget
+302521 1698784869992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+302521 1698784869992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+302521 1698784869992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+302521 1698784869992 ExecutingUnlockedFunction halt_target
+302521 1698784869992 XXXX 1698784869992, Thread 302521: XXXX 1698784869992, Entering Thread 302521: Commands::runScriptBasic, script name = Halt, timeOut = -1 ms  
+302521 1698784869993 XXXX 1698784869993, Thread 302521: XXXX 1698784869993, Exiting Thread 302521: Commands::runScriptBasic  
+302521 1698784869993 XXXX 1698784869993, Thread 302521: XXXX 1698784869993, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869993 XXXX 1698784869993, Thread 302521: XXXX 1698784869993, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869994 XXXX 1698784869994, Thread 302521: XXXX 1698784869994, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869994 XXXX 1698784869994, Thread 302521: XXXX 1698784869994, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869994 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:HaltTarget
+302521 1698784869994 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+302521 1698784869994 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+302521 1698784869994 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+302521 1698784869994 EvalCall 
+302521 1698784869995 ExecutingUnlockedFunction is_target_running
+302521 1698784869995 XXXX 1698784869995, Thread 302521: XXXX 1698784869995, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869995 XXXX 1698784869995, Thread 302521: XXXX 1698784869995, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869997 XXXX 1698784869997, Thread 302521: XXXX 1698784869997, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869997 XXXX 1698784869997, Thread 302521: XXXX 1698784869997, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869997 XXXX 1698784869997, Thread 302521: XXXX 1698784869997, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetDbgStatus  
+302521 1698784869997 XXXX 1698784869997, Thread 302521: XXXX 1698784869997, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x17 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784869999 XXXX 1698784869999, Thread 302521: XXXX 1698784869999, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784869999 XXXX 1698784869999, Thread 302521: XXXX 1698784869999, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784869999 XXXX 1698784869999, Thread 302521: XXXX 1698784869999, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetPC  
+302521 1698784869999 XXXX 1698784869999, Thread 302521: XXXX 1698784869999, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x2c1 bytes long, transferDataLength is 0x4 bytes long  
+302521 1698784870003 XXXX 1698784870003, Thread 302521: XXXX 1698784870003, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784870003 XXXX 1698784870003, Thread 302521: XXXX 1698784870003, Exiting Thread 302521: Commands::runScriptWithUpload  
+302521 1698784870003 XXXX 1698784870003, Thread 302521: XXXX 1698784870003, Entering Thread 302521: Commands::runScriptWithUpload, script name = GetCoreRegsRange  
+302521 1698784870003 XXXX 1698784870003, Thread 302521: XXXX 1698784870003, Entering Thread 302521: ToolCommUsb::readTransfer, sideData is 0x808 bytes long, transferDataLength is 0x94 bytes long  
+302521 1698784870017 XXXX 1698784870017, Thread 302521: XXXX 1698784870017, Exiting Thread 302521: ToolCommUsb::readTransfer,  cr.status = 0x0  
+302521 1698784870017 XXXX 1698784870017, Thread 302521: XXXX 1698784870017, Exiting Thread 302521: Commands::runScriptWithUpload  
+
+302521 1698784870023 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:GetPC
+302521 1698784870023 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+302521 1698784870023 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+302521 1698784870023 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+302521 1698784870024 ExecuteFunCall.call get_pc
+302521 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:GetPC
+302521 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+302521 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G 23f026e0
+302521 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:IsTargetInDebugMode
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:IsTargetInDebugMode
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G PC
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784870024 ExecuteFunCall.call read_named_register
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784870024 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:IsTargetInDebugMode
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:IsTargetInDebugMode
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R0
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871187 ExecuteFunCall.call read_named_register
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R1
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871187 ExecuteFunCall.call read_named_register
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R2
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871187 ExecuteFunCall.call read_named_register
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R3
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871187 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R5
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R6
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R7
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R8
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R9
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R10
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R11
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R12
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SP
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G LR
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G PC
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:IsTargetInDebugMode
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:IsTargetInDebugMode
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SPSR_FIQ
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SPSR_SVC
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SPSR_ABT
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SPSR_IRQ
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SPSR_UND
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871188 ExecuteFunCall.call read_named_register
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871188 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:IsTargetInDebugMode
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:IsTargetInDebugMode
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R8_FIQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R9_FIQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R10_FIQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R11_FIQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R12_FIQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G CPSR
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:IsTargetInDebugMode
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:IsTargetInDebugMode
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SP_SVC
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SP_ABT
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SP_UND
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SP_IRQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G SP_FIQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:IsTargetInDebugMode
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:IsTargetInDebugMode
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G LR_SVC
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G LR_ABT
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G LR_UND
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G LR_IRQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G LR_FIQ
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871189 ExecuteFunCall.call read_named_register
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871189 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:IsTargetInDebugMode
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:IsTargetInDebugMode
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:DebugReadNamedRegister
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G R0
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Length = 4
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+309812 1698784871191 ExecuteFunCall.call read_named_register
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:DebugReadNamedRegister
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G true
+309812 1698784871191 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+314541 1698784871315 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is null
+
+314541 1698784871315 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Pre:EndDebugSession
+314541 1698784871315 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload
+314541 1698784871315 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G null
+314541 1698784871315 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Payload End
+314541 1698784871315 ExecuteFunCall.call end_debug_session
+314541 1698784871315 XXXX 1698784871315, Thread 314541: XXXX 1698784871315, Entering Thread 314541: Commands::runScriptBasic, script name = UnInitJTAG, timeOut = -1 ms  
+314541 1698784871316 XXXX 1698784871316, Thread 314541: XXXX 1698784871316, Exiting Thread 314541: Commands::runScriptBasic  
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Post:EndDebugSession
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return Value
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G none
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_SAM9X60D1G Return End
+
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Pre:GetFirmwareInfo
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G null
+314541 1698784871316 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload End
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Post:GetFirmwareInfo
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return Value
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G FirmwareInfo: Values:
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G FirmwareInfo: boot = false, bootVer = 00.00.04, apVer = 02.00.64, fpgaVer = 01.00.01, scriptVer = 00.05.85, macAddress = 0504983777653804957485353485152, devID = a1020e01, devID1 = 2, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = 020054102RYN000712, appCommitID = null, scriptCommitID = d33d758f73, PCB_ID = 2
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return End
+
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Pre:SetPowerInfo
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G PowerInfo: Values:
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G PowerInfo: shotDownSystem = true, isToolPower = false, voltage = 0.000000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
+314541 1698784871324 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload End
+314541 1698784871324 XXXX 1698784871324, Thread 314541: XXXX 1698784871324, Entering Thread 314541: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
+314541 1698784871325 XXXX 1698784871325, Thread 314541: XXXX 1698784871325, Exiting Thread 314541: Commands::runScriptBasic  
+314541 1698784871325 XXXX 1698784871325, Thread 314541: XXXX 1698784871325, Entering Thread 314541: Commands::runScriptBasic with script contents. contents[0] = 0x44, ...  
+314541 1698784871346 XXXX 1698784871346, Thread 314541: XXXX 1698784871346, Exiting Thread 314541: Commands::runScriptBasic  
+314541 1698784871346 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Post:SetPowerInfo
+314541 1698784871346 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return Value
+314541 1698784871346 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G none
+314541 1698784871346 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return End
+314541 1698784871346 GEN4_CONNECT_DIAGNOSTICS:Removing plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@6bf6fcf
+314541 1698784871346 GEN4_CONNECT_DIAGNOSTICS:Begin PlugNPlayObservers list dump:
+314541 1698784871346 GEN4_CONNECT_DIAGNOSTICS:End PlugNPlayObservers list dump:
+314541 1698784871398 GEN4_CONNECT_DIAGNOSTICS:Calling RIDbgToolCom.Disconnect
+314541 1698784871398 GEN4_CONNECT_DIAGNOSTICS:Calling MPLABCommTool.Detach to remove tool from plug and play list
+314541 1698784871398 GEN4_CONNECT_DIAGNOSTICS:Calling RIDbgToolCom.DisconnectFromMPlabComm
+314541 1698784871398 GEN4_CONNECT_DIAGNOSTICS:Calling MPLABCommTool.Disconnect
+314557 1698784916097 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is NOT null
+314557 1698784916097 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 903f, AttachedToolVID = 4d8
+314557 1698784916097 GEN4_CONNECT_DIAGNOSTICS:transport type = USB
+314557 1698784916097 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 903f, AttachedToolVID = 4d8
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:Before MPLABCommTool.Connect()
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:After MPLABCommTool.Connect()
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool.Connect() returned MPLABCOMM_NO_ERROR
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:Attaching to MPLABCommTool plugnplay
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:Adding new plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@77022af0
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:Begin PlugNPlayObservers list dump:
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@77022af0
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:End PlugNPlayObservers list dump:
+314557 1698784916105 GEN4_CONNECT_DIAGNOSTICS:Registering for alternate PNP notifications. CommPnPCriteria.cPIDList = [9037, 9038], CommPnPCriteria.cSerialNumber = 020054102ryn000712
+
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Pre:init
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: Values:
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: pcAddress = 7fffffffffffffff, Vpp = 0.00, useRowEraseIfVoltageIsLow = false, voltageBelowWhichUseRowErase = 0.00, deviceName = SAM9X60D1G, programmerType = EFC_6450
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: MemInfo values:
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = ffffffff, exists = true, startAddr = 00300000, endAddr = 7fffffff, rowSize = 0004, rowEraseSize = 0004, addrInc = 0004, widthProgram = 0004
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0004, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = ffffffff, exists = true, startAddr = f0000000, endAddr = ffffffa3, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0004, widthProgram = 0004
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 7fffffff, exists = true, startAddr = fffff240, endAddr = fffff243, rowSize = 0001, rowEraseSize = 0000, addrInc = 0001, widthProgram = 0001
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G DeviceInfo: CfgRequiredBitsMask Values:
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G BasicInfo: Values:
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G BasicInfo: InputStream = com.microchip.mplab.libs.toolpacksupport.EquatableFileInputStream@4cbfeb1a, ToolFlavor = PIC32C
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Post:init
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G none
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Pre:GetInterfaceProvider
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G RI4DebugInterface
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Post:GetInterfaceProvider
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G com.microchip.mplab.libs.scriptbasedcontroller.implementations.DebugImplWithAtmelIceHelp@4f9bba71
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Pre:GetInterfaceProvider
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G RI4ProgramInterface
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Post:GetInterfaceProvider
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G com.microchip.mplab.libs.scriptbasedcontroller.implementations.ProgramImpl@49e7d374
+314557 1698784916133 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Pre:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G RI4ConnectInterface
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Post:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G com.microchip.mplab.libs.scriptbasedcontroller.implementations.ICD4TrapCallDeviceIDCommunicationsImpl@2fd42512
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Pre:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G RI4ControllerDiagnosticsInterface
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Post:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G com.microchip.mplab.libs.atmelice.implementations.UnimplementedDiagnostics@2dc02bb8
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Pre:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G ProgrammerToGo
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Post:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G null
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Pre:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Status
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Post:GetInterfaceProvider
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G null
+314557 1698784916134 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916151 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Pre:EstablishCommunincations
+314557 1698784916151 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916151 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G com.microchip.mplab.mdbcore.ICD5Tool.ICD5Com@549f52d1
+314557 1698784916151 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916152 ExecuteFunCall.call begin_communication_session
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Post:EstablishCommunincations
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G true
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Pre:GetFirmwareInfo
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G null
+314557 1698784916153 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916161 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Post:GetFirmwareInfo
+314557 1698784916161 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916161 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G FirmwareInfo: Values:
+314557 1698784916161 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G FirmwareInfo: boot = false, bootVer = 00.00.04, apVer = 02.00.64, fpgaVer = 01.00.01, scriptVer = 00.05.85, macAddress = 0504983777653804957485353485152, devID = a1020e01, devID1 = 2, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = 020054102RYN000712, appCommitID = null, scriptCommitID = d33d758f73, PCB_ID = 2
+314557 1698784916161 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return End
+314557 1698784916161 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+314557 1698784916161 GEN4_CONNECT_DIAGNOSTICS:Created FirmwareUpdateHandler com.microchip.mplab.mdbcore.ICD5Tool.ICD5FirmwareUpdateHandler@4736d0cc
+314557 1698784916161 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.GetUpdateInfo()
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Parsing file  for firmware updates
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Jame file line = app.hex,020064
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Jame file line = boot.hex,000004
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Jame file line = fpga.hex,010001
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Jame file line = scripts.xml,000585
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for Boot = 00.00.04
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for ap = 02.00.64
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for fpga = 01.00.01
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.GetUpdateInfo()
+314557 1698784916164 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.updateRI4ToolsFirmware(FirmwareInfo, UpdateMessage)
+314557 1698784916192 GEN4_CONNECT_DIAGNOSTICS:appNeedsUpdate returned false
+314557 1698784916192 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.updateRI4ToolsFirmware(FirmwareInfo, UpdateMessage)
+314557 1698784916192 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+
+314557 1698784916192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Pre:SetPowerInfo
+314557 1698784916192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G PowerInfo: Values:
+314557 1698784916192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G PowerInfo: shotDownSystem = false, isToolPower = false, voltage = 0.000000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
+314557 1698784916192 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916192 XXXX 1698784916192, Thread 314557: XXXX 1698784916192, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
+314557 1698784916193 XXXX 1698784916193, Thread 314557: XXXX 1698784916193, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916193 XXXX 1698784916193, Thread 314557: XXXX 1698784916193, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0x46, ...  
+314557 1698784916194 XXXX 1698784916194, Thread 314557: XXXX 1698784916194, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916194 XXXX 1698784916194, Thread 314557: XXXX 1698784916194, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0x44, ...  
+314557 1698784916216 XXXX 1698784916216, Thread 314557: XXXX 1698784916216, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916216 XXXX 1698784916216, Thread 314557: XXXX 1698784916216, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0xef, ...  
+314557 1698784916226 XXXX 1698784916226, Thread 314557: XXXX 1698784916226, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916226 XXXX 1698784916226, Thread 314557: XXXX 1698784916226, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0x40, ...  
+314557 1698784916554 XXXX 1698784916554, Thread 314557: XXXX 1698784916554, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916554 XXXX 1698784916554, Thread 314557: XXXX 1698784916554, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0x47, ...  
+314557 1698784916591 XXXX 1698784916591, Thread 314557: XXXX 1698784916591, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Post:SetPowerInfo
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G none
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Pre:SetToolInfo
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G ToolInfo: Values:
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G ToolInfo: speedLevel = 1, PGCResistance = 4700, PGDResistance = 4700, PGCPullDir = PullDown, PGDPullDir = PullDown, ICSPSelected = Wire2
+314557 1698784916591 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916591 XXXX 1698784916591, Thread 314557: XXXX 1698784916591, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0x27, ...  
+314557 1698784916592 XXXX 1698784916592, Thread 314557: XXXX 1698784916592, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916592 XXXX 1698784916592, Thread 314557: XXXX 1698784916592, Entering Thread 314557: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+314557 1698784916593 XXXX 1698784916593, Thread 314557: XXXX 1698784916593, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916593 XXXX 1698784916593, Thread 314557: XXXX 1698784916593, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+314557 1698784916594 XXXX 1698784916594, Thread 314557: XXXX 1698784916594, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916594 XXXX 1698784916594, Thread 314557: XXXX 1698784916594, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0x3b, ...  
+314557 1698784916595 XXXX 1698784916595, Thread 314557: XXXX 1698784916595, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916595 XXXX 1698784916595, Thread 314557: XXXX 1698784916595, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0xd4, ...  
+314557 1698784916596 XXXX 1698784916596, Thread 314557: XXXX 1698784916596, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916596 XXXX 1698784916596, Thread 314557: XXXX 1698784916596, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0xcd, ...  
+314557 1698784916597 XXXX 1698784916597, Thread 314557: XXXX 1698784916597, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916597 XXXX 1698784916597, Thread 314557: XXXX 1698784916597, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0xce, ...  
+314557 1698784916598 XXXX 1698784916598, Thread 314557: XXXX 1698784916598, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916598 XXXX 1698784916598, Thread 314557: XXXX 1698784916598, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0xcd, ...  
+314557 1698784916599 XXXX 1698784916599, Thread 314557: XXXX 1698784916599, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916599 XXXX 1698784916599, Thread 314557: XXXX 1698784916599, Entering Thread 314557: Commands::runScriptBasic with script contents. contents[0] = 0xce, ...  
+314557 1698784916600 XXXX 1698784916600, Thread 314557: XXXX 1698784916600, Exiting Thread 314557: Commands::runScriptBasic  
+314557 1698784916600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Post:SetToolInfo
+314557 1698784916600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return Value
+314557 1698784916600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G none
+314557 1698784916600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Return End
+
+314557 1698784916604 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Pre:GetTargetIDInfo
+314557 1698784916604 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload
+314557 1698784916604 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G null
+314557 1698784916604 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_SAM9X60D1G Payload End
+314557 1698784916604 ExecuteFunCall.call begin_programming_operation
+314557 1698784916604 XXXX 1698784916604, Thread 314557: XXXX 1698784916604, Entering Thread 314557: Commands::runScriptBasic, script name = InitJTAG, timeOut = -1 ms  
+314557 1698784918109 XXXX 1698784918109, Thread 314557: Type = runScript, Script name = InitJTAG, Status = 0x104
+ 
+314557 1698784918201 XXXX 1698784918201, Thread 314557: XXXX 1698784918201, Entering Thread 314557: Commands::runScriptBasic, script name = InitSWD, timeOut = -1 ms  
