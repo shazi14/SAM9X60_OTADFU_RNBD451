@@ -15,7 +15,7 @@ This application shows how an image (harmony.bin) is transfrred from MBD App to 
 
 ### Add Header to the Image:
 
-- [Use HeaderAdd2Bin](firmware/Tool/HeaderAdd2Bin) c# utility to add header to harmony.bin. The header is a must for MBD app to recognize the image file. The output is harmony_out.bin
+- [Use HeaderAdd2Bin](firmware/Tool) c# utility to add header to harmony.bin. The header is a must for MBD app to recognize the image file. The output is harmony_out.bin
 
 ### Install MBD App on iOS and Android Phone
 
